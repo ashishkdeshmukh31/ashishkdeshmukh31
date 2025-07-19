@@ -58,7 +58,7 @@
 
 <h2>🌍 Connect with Me</h2>
 
-📩 **Email:** <a href="mailto:ashish4153@gmail.com">ashish4153@gmail.com</a>  
+📩 **Email:** <a href="mailto:ashishkdeshmukh31@gmail.com">ashishkdeshmukh31@gmail.com</a>  
 📌 **GitHub:** [github.com/ashishkdeshmukh31](https://github.com/ashishkdeshmukh31)  
 💼 **LinkedIn:** [linkedin.com/in/ashish4153](https://www.linkedin.com/in/ashish4153/)  
 
