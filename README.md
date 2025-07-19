@@ -1,8 +1,7 @@
 <h1 id="hey-there-welcome-to-my-github-profile">Hey there 👋, Welcome to my GitHub Profile</h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&amp;color=22EBF7&amp;size=25&amp;center=false&amp;lines=Hey!+I'm+Ashish+Deshmukh;Tech+Enthusiast...;Problem+Solver...;Lifelong+Learner...">
+<img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=22EBF7&size=25&center=false&lines=Hey!+I'm+Ashish+Deshmukh;Full-Stack+Web+Developer;Passionate+Tech+Explorer;Creative+Problem+Solver;Lifelong+Learner">
 
-<p>- <i> A passionate Final Year Engineering Student at DYPCOE Pune. Proficient in Java, Databases, DSA and problem-solving. Always exploring new technologies to create impactful software solutions — including building intelligent AI agents and automation workflows using n8n.</i></p>
-
+<p>- <i> A passionate Final Year Engineering Student at DYPCOE Pune. Proficient in Web Development, Java, Databases, DSA, and problem-solving. Always exploring new technologies to create impactful software solutions — including building intelligent AI agents and automation workflows using n8n.</i></p>
 ---
 
 <h2 id="️-skills">🛠️ Skills</h2>
