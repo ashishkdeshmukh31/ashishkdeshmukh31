@@ -64,4 +64,6 @@
 ---
 
 👀 **Visitors Count:**  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ashishkdeshmukh31}/count.svg"></p>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ashishkdeshmukh31" alt="visitor badge"/>
+</p>
